@@ -1,5 +1,5 @@
 # RNAseq-Fusion-Gene-Detection
-The Project is about Fusion gene detection from RNA-seq data using Bowtie2 and Arriba on GEO dataset GSE241942
+RNA-seq pipeline for fusion gene detection using Bowtie2, SAMtools and Arriba on public GEO cancer datasets.
 
 # RNA-seq Fusion Gene Detection Pipeline
 
