@@ -1,23 +1,18 @@
 # Software Requirements
 
+STAR >= 2.7
+
+Arriba >= 2.4
+
+SAMtools >= 1.18
+
+SRA Toolkit >= 3.0
+
 Linux
 
-Bowtie2
+Reference Genome:
+GRCh38/hg38
 
-SAMtools
+GENCODE Annotation
 
-Arriba
-
-SRA Toolkit
-
-GENCODE Reference Genome
-
-Gene Annotation (GTF)
-
-Reference FASTA
-
-Recommended
-
-16 GB RAM
-
-Multi-core CPU
+Arriba Blacklist
